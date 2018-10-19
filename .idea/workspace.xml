@@ -137,11 +137,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="204" />
-    <option name="y" value="87" />
-    <option name="width" value="1650" />
-    <option name="height" value="1023" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="606" />
+    <option name="y" value="23" />
+    <option name="width" value="1074" />
+    <option name="height" value="966" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -204,6 +204,7 @@
   </component>
   <component name="RunManager" selected="Python.Factorial">
     <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -214,14 +215,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmStudy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_search/Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="RecursionCorrect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -232,14 +236,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmStudy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_search/RecursionCorrect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="RecursionError" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,14 +257,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmStudy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_search/RecursionError.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -268,14 +278,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmStudy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_search/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -286,32 +299,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmStudy" />
       <option name="SCRIPT_NAME" value="D:\PycharmProjects\AlgorithmStudy\algorithm_search\Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.recursion" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RecursionError" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RecursionCorrect" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Stack" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Factorial" />
+    <list>
+      <item itemvalue="Python.recursion" />
+      <item itemvalue="Python.RecursionError" />
+      <item itemvalue="Python.RecursionCorrect" />
+      <item itemvalue="Python.Stack" />
+      <item itemvalue="Python.Factorial" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Factorial" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Stack" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RecursionCorrect" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RecursionError" />
-        <item index="4" class="java.lang.String" itemvalue="Python.recursion" />
+      <list>
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.RecursionCorrect" />
+        <item itemvalue="Python.RecursionError" />
+        <item itemvalue="Python.recursion" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
