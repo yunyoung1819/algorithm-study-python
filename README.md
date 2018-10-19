@@ -1,6 +1,6 @@
 <table border="0" Cellpadding = "10" Cellspacing = "10">
     <tr>
-        <td rowspan="7"><img src="helloCoding_book.jpg" alt="Hello Coding 알고리즘"/></td>
+        <td rowspan="5"><img src="helloCoding_book.jpg" alt="Hello Coding 알고리즘"/></td>
         <td>Hello Coding 그림으로 개념을 이해하는 알고리즘</td>                
     </tr>
     <tr>
