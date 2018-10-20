@@ -24,8 +24,6 @@ def findSmallest(arr):
             smallest = arr[i]
             smallest_index = i
     return smallest_index
-
-
 def selectionSort(arr):
     newArr = []
     for i in range(len(arr)):
