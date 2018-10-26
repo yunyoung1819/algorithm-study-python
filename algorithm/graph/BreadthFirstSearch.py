@@ -12,7 +12,6 @@
 
 from collections import deque
 
-
 graph = {}
 graph["you"] = ["alice", "bob", "claire"]
 graph["bob"] = ["anuj", "peggy"]
@@ -41,6 +40,5 @@ def search(name):
                 search_queue += graph[person]  # 망고 판매상이 아님. 모든 이웃을 탐색 목록에 추가
                 searched.append(person) # 이 사람을 확인한 것으로 표시
     return False    # 여기에 도달했다는 것은 망고 판매상이 아무도 없다는 의미
-
 
 search("you")
